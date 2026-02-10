@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules/
+.pub-cache/
+.packages
+
+# Build outputs
+build/
+*.apk
+*.ipa
+*.app
+
+# Security & Config
+.env
+.env.local
+.env.example
